@@ -64,16 +64,16 @@ This project uses a real-world educational dataset and machine learning to **pre
 ## Power BI Dashboards
 
 ### Dashboard 1&2: Behavioral Factors
-![Behavioral Factors](Dropout Factors.png)
-![Behavioral Factors](Student Performance Insights)
+![Behavioral Factors](Dropout%20Factors.png)
+![Behavioral Factors](Student%20Performance%20Insights)
 ### Dashboard 3: Academic
-![Academic](Factors influencing student Performance.png)
+![Academic](Factors%20influencing%20student%20Performance.png)
 
 ### Dashboard 4: Demographics
-![Demographics](Social Influence on GPA.png)
+![Demographics](Social%20Influence%20on%20GPA.png)
 
 
-
+## SQL Insighta
 Key SQL-based questions answered:
 - Dropout rate by gender and study time
 - Impact of parental education
